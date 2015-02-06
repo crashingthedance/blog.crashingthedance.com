@@ -1,0 +1,47 @@
+---
+layout: post
+title: Spark(line)s are flying
+date: '2008-03-02 23:53:28 -0500'
+mt_id: 108
+blog_id: 3
+post_id: 108
+basename: sparklines-are
+---
+<p>Allow me to introduce an exciting new feature to Crashing the Dance: sparklines.</p>
+
+<p>Crashing the Dance grew out of a grad school machine learning course project. While I love machine learning, my focus in grad school was <a href="http://www.infovis-wiki.net/index.php?title=Information_Visualization">information visualization</a> (typically called infovis). I studied infovis under <a href="http://www.cc.gatech.edu/~john.stasko/">John Stasko</a>, and my master's project involved applying infovis techniques to (surprise!) sports data. I was thrilled to be able to present my work on that project at both <a href="http://conferences.computer.org/infovis/infovis2006/">infovis</a> and <a href="http://www.sabr.org/sabr.cfm?a=cms,c,1811,34,0">sports</a> conferences.</p>
+
+<p>Since I started CTD, I've been wanting to put some of this data under the infovis lens. Today, I'm happy to unveil my first, albeit small, attempt to that end.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Edward_Tufte">Edward Tufte</a> is widely hailed as a data visualization guru. In his most recent book <i>Beautiful Evidence</i>, Tufte <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&amp;topic_id=1">proposed</a> a new type of information graphic called <a href="http://en.wikipedia.org/wiki/Sparkline">sparklines</a>:</p>
+
+<blockquote>[S]mall, high-resolution graphics embedded in a context of words, numbers, images. Sparklines are data-intense, design-simple, word-sized graphics.</blockquote>
+
+<p>Sparklines can be used inline with text to help further explain, or in a series to make comparisons easier across large amounts of data. My first use of sparklines makes it easier to look at the overall performance of a team over the season, and to compare the overall performance of multiple teams.</p>
+
+<p>When we look at a team's profile (<i>we</i> meaning those who study and predict bracket selection), we examine the team's performance against different levels of competition by grouping the opponents into RPI top 25, top 50, etc. We look at the number of wins over the RPI top 25, record +/- .500 against the top 100, and so on.</p>
+
+<p>One problem with this grouping is that we lose some of the details. For example, when we talk about RPI top 25 wins there is no difference between defeating the RPI #1 team and the RPI #25 team. Also, a team's profile can change from one day to the next without playing a game. Say Team A beat Team B (which is ranked #25 in RPI) two times earlier in the season. On a day they do not play, Team B drops from #25 to #26 because of slight change in their RPI (perhaps because of their opponents' opponents' performance). Now Team A has two fewer RPI Top 25 wins <i>without either Team A or Team B playing a game</i>, even though the difference between being Team B ranked #25 and #26 is slimmer than a <a href="http://www.apple.com/macbookair/">MacBook Air</a>.</p>
+
+<p>We would like a way to investigate a team's quality of opponents and their results against their opponents without these seemingly arbitrary bins. Visually displaying information about a team's schedule and performance against that schedule gives us that. By using a sparkline technique we can compare many teams at one time or use words and pictures together to lend insight.</p>
+
+<p>Each bar represents a single game for a team, ordered left to right chronologically. If the bar is above the baseline, the team won that game; if the bar is below the baseline the team lost that game. The length of each bar is proportional to the RPI rank of the opponent in that game. For wins (above the baseline), the longer the bar, the <b>better</b> the RPI rank of the opponent. For losses (below the baseline), the longer the bar, the <b>worse</b> the RPI rank of the opponent.</p>
+
+<p>This choice is meant to emphasize good wins (long bar above the baseline = win over a team with very good RPI) and bad losses (long bar below the baseline = loss to a team with very bad RPI). A team wants to have many long bars above the baseline (meaning many wins over good teams) and no long bars below it (meaning no losses to bad teams).</p>
+
+<p>Bars with colors other than the default gray indicate especially good or bad results. All losses at home are given red bars, so a loss at home to a bad team gets a long red bar, which makes it stand out. Wins on the road get darker bars, so a road win over a good team gets a darker long bar, also emphasizing that.</p>
+
+<p>Here's an example for current RPI #1 <a href="http://kenpom.com/sked.php?team=Tennessee">Tennessee</a> <img src='http://www.sportvis.com/ctd/sparklineRPI275demo.png'>. We can quickly make several observations about Tennessee's profile based on their sparkline:</p>
+<ul><li>They don't have any red bars, meaning they have no <strike>road</strike> home losses.</li>
+<li>They have two very short and one medium length bar below the the baseline, so they have no truly bad losses. The two short bars are losses against highly ranked teams (RPI #4 Texas and #7 Vanderbilt); the medium bar represents their worst loss, at RPI #62 Kentucky.</li>
+<li>They have several long darker bars above the line, indicating several road wins against good teams. Of course, the latest of these is their win at Memphis.</li>
+</ul>
+
+<p>Here's another example for <a href="http://kenpom.com/sked.php?team=Connecticut">Connecticut</a> <img src='http://www.sportvis.com/ctd/sparklineRPI58Demo.png'>. We can quickly make several observations about UConn's profile based on their sparkline:</p>
+<ul><li>They one medium-length red bar, representing a moderately bad home loss. (It was to RPI sub-100 Providence.)</li>
+<li>They had won 11 games before that loss, but all were against low RPI teams. This is represented by the short bars above the line toward the left.</li>
+<li>They have won 12 of 13 since the aforementioned loss to Providence. Several of the wins early in that run were against good teams (the longer bars above the line), but the quality of opponent has generally declined (the bars trend shorter toward the right).</li>
+</ul>
+<p>In both cases, you can find the same information from a text data table. However, it is much easier and faster to spot trends visually, especially when the data is represented in a meaningful way.</p>
+
+<p>I hope you enjoy this latest addition to Crashing the Dance, and if you have any questions or feedback (on the sparklines or any part of the site), I would love to <a href="mailto:andy@crashingthedance.com">hear them</a>.</p>

@@ -1,0 +1,33 @@
+---
+layout: post
+title: The wins of change are blowin'
+date: '2008-02-16 15:54:44 -0500'
+mt_id: 112
+blog_id: 3
+post_id: 112
+basename: the-wins-of-cha
+---
+<p>As I've <a href="http://blog.crashingthedance.com/2006/03/whither_memphis.html">written</a> <a href="http://blog.crashingthedance.com/2008/02/wha-happened.html">before</a>, deciding which attributes from each team's profile to include in our predictions is always a challenge. If we use too few or too many, the results can suffer. (Read <a href="http://blog.crashingthedance.com/2006/03/whither_memphis.html">this post</a> for a discussion of why too many attributes is bad.)</p>
+
+<p>The initial set of attributes was chosen based on a combination of several factors. We used <a href="http://sportsillustrated.cnn.com/2005/writers/luke_winn/03/09/inside.bkc/index.html">media reports</a> about what attributes the committee deems important. This injects some common sense into the process and keeps it from being a total geek-fest. We also use some statistical tests on the historical data (2000-2007 seasons) to show which attributes are the best predictors for at-large selection and for seeding.</p>
+
+<p>Over the last few seasons, I've tweaked the set of attributes a few teams, between and <a href="http://blog.crashingthedance.com/2007/03/notes.html">during</a> seasons. After reading some of the coverage of the recent mock selection committee, I've decided to make some more changes.</p>
+
+<p>The following new attributes are now included in Crashing the Dance at-large selection and seeding predictions:</p>
+<ul>
+<li>Wins over RPI Top 50 and Top 100 teams</li>
+<li>Games +/- .500 against RPI Top 200 teams</li>
+</ul> 
+
+<p>The following new attributes have been removed (for now) from consideration:</p>
+<ul>
+<li>Record in last 10 games</li>
+<li>Games +/- .500 in road games</li>
+<li>Games +/- .500 against conference opponents</li>
+</ul> 
+
+<p>The three attributes I removed do well in the common sense category, but when I analyzed how well they fared as predictors in the past, the answer is not very well. Of all the attributes we use, those three showed the least ability to predict at-large selection or seed. (For those who like to know details, we used <a href="http://www.autonlab.org/tutorials/infogain.html">information gain</a> with 10-fold cross validation to measure each attribute's predictive ability.)</p>
+
+<p>The last one on that list was the toughest to give up, and you may well see it return later. The meme that teams with sub-.500 conference records shouldn't be at-large selections is a popular one (and it holds some truth), so it makes sense that the conference +/- would be useful. However, in my analysis there was no evidence that the +/- value itself is a better predictor than most of the other attributes we use. Because I'm wary of the <a href="http://blog.crashingthedance.com/2006/03/whither_memphis.html">curse of dimensionality</a> rearing its ugly head (and frankly, who isn't), I'd rather replace a few bad attributes with better ones than just throw all of them at the wall and see what sticks.</p>
+
+<p>I'm hesitant to do too much of this switching around, so this may be the last change for a while. I'd really like to go back and run the new attribute set against each of the seasons in the historical data to see how well they actually predict the bracket, but that's another task for another day.</p>

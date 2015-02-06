@@ -1,0 +1,59 @@
+---
+layout: post
+title: Whither Memphis?
+date: '2006-03-02 17:02:18 -0500'
+mt_id: 132
+blog_id: 3
+post_id: 132
+basename: whither_memphis
+---
+<p>(This was written before Texas lost to Texas A&M, which improves the Memphis case. Nonetheless, the argument still applies.)</p>
+
+<p>The top three overall seeds seem to be set. The fourth is up for debate. Most debate centers around Memphis and Texas, and most prognosticators and bracketologists pencil in Memphis. I would wait a bit before writing that with pen.</p>
+
+<p>First, a little background on our methods. (Warning: Technical details ahead.)</p>
+
+<p>The "nitty gritty" report used by the selection committee includes a decent amount of data for each team. Wins and losses are listed in multiple categories (for example, overall, conference, and against teams ranked 1-25 in RPI). Conference and non-conference RPI is listed along with overall RPI. They also have polls and computer rankings (most notably Jeff Sagarin's rankings). For our purposes, these are called the attributes of a team.</p>
+
+<p>There is a principle in statistical machine learning called the "curse of dimensionality." Essentially, it means that as the number of attributes increases, the amount of data needed to train the learner well increases exponentially (that is, really fast). Otherwise, the learner will create a model that fits the training data well but does not generalize. (This is called <i>overfitting</i>.) </p>
+
+<p>We want a general model, because that is better for making predictions on future data. Making predictions is what machine learning is all about, so a non-general model leads to bad predictions. And we don't want that.</p>
+
+<p>What this means is that we can't just throw all the attributes at the learner and expect good prediction results. Through experimentation and applying our own expert knowledge (i.e., reading good articles), we arrived on a smaller subset of the attributes to use for training the learner. Most of these are the familiar ones discussed in the media, and even <a href='http://sportsillustrated.cnn.com/2005/writers/luke_winn/03/09/inside.bkc/index.html' target='_new'>unofficially confirmed</a>, including:
+
+<ul>
+<li>"good wins" (total wins against RPI top 25) </li>
+<li>"bad losses" (total losses against RPI 101 or worse) </li>
+<li>+/- .500 against other RPI teams</li>
+<li>polls and Jeff Sagarin's computer rankings</li>
+<li>conference record +/- .500</li>
+<li>conference performance and schedule strength (measured by conference RPI)</li>
+<li>non-conference performance and schedule strength (measured by non-conference RPI)</li>
+</ul>
+
+<p>(We now return you to your regular programming.)</p>
+
+<p>The point of all this is that we've tried to identify the most important attributes to predicting selection and seeding, based on the past data we have (2000-2005). Our results last season showed that we guessed pretty well, though there is certainly room for improvement.</p>
+
+<p>Now, back to Memphis. Until recently, we measured conference performance and schedule strength with the team's ranking (rather than the actual value) in conference-specific RPI. (We did the same for non-conference as well.) </p>
+
+<p>The idea is that the actual RPI value is not important; it's their standing in relation to other teams. A .6000 RPI may not mean the same thing year to year (much as a .300 batting average in baseball may not). To build a bracket, only this year's performance matters, so the important thing when looking at past seasons is how the team compares to others.</p>
+
+<p>This worked well for predicting the 2005 seeds. (We correctly picked all four #1 seeds in order. #2 seeds, not so much.) However, things started looking a bit dodgy this year. Memphis, which many think deserves a #1 seed (certainly a #2) was showing up as a borderline #3/4 seed when we ran this numbers. So I got curious.</p>
+
+<p>I looked at their numbers through games of March 1:
+
+<table border='1' style='font-size:10px;text-align:right;'><tr style='text-align:center;'><th colspan='1'></th><th colspan='3'>Rank</th><th colspan='2'>Conf</th><th colspan='1'>NonConf</th><th colspan='1'>Road</th><th colspan='1'>L10</th><th colspan='1'>1-25</th><th colspan='1'>26-50</th><th colspan='1'>51-100</th><th colspan='1'>101+</th></tr><tr><th>W-L</th><th>Sagarin</th><th>Poll</th><th>RPI</th><th>RPI</th><th>+/-</th><th>RPI</th><th>+/-</th><th>W</th><th>W</th><th>+/-</th><th>+/-</th><th>L</th></tr>
+<tr style='text-align:right;'><td>26-2</td><td>4</td><td>3</td><td>5</td><td>0.5957</td><td class='arff'>12</td><td>0.6807</td><td class='arff'>10</td><td class='arff'>10</td><td class='arff'>4</td><td class='arff'>2</td><td class='arff'>5</td><td class='arff'>0</td></tr></table>
+
+<p>Looks pretty good in general. So I thought maybe something was wrong with my code or the data, but most of the other predictions looked sane. So I dug deeper.</p>
+
+<p>From 2000 to 2005, 24 teams were given #1 seeds. The average conference RPI rank of those teams is a shade over 5th, with only two outside the top 10. The conference RPI rank for Memphis: 48th (as of Mar. 1). During that period, the average non-conference RPI rank for the same teams was 9.5, including a 38th and 42nd. So, at least for this sample, it looks like the committee gives the conference RPI rank more weight than the non-conference RPI.</p>
+
+<p>Out of curiosity, I replaced the conference and non-conference RPI ranks with the actual RPI values. Memphis jumped up to the #1 line (#4 in the S-Curve), and this is what you currently see on the site. I would like to do more investigation for next season, but I'm leaving it as it is now because I think it's more likely for Memphis to be a #1 seed than a #4 seed.</p>
+
+<p>It is possible that the revised RPI formula has some effect on this (previous seasons use the old formula), but I have not had a chance to try it with the new formula. Maybe next year...</p>
+
+<p>None of this is to say that the Tigers' conference RPI (and the corresponding rank) will not improve in their remaining games. Their last 2 regular season opponents are in the RPI top 60, and winning their conference tournament should also help.</p>
+
+<p>Just don't be surprised if they win out and still fall short of the #1 seed line.</p>
