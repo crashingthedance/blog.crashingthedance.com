@@ -15,3 +15,5 @@ permalink: /:year/:month/:title.html
 markdown: kramdown
 
 exclude: [ vendor/bundle ]
+gems:
+  - jekyll-redirect-from
