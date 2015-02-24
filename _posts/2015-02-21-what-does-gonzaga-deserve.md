@@ -21,7 +21,7 @@ If [Kentucky](http://crashingthedance.com/teams/131),
 win out until the ACC final, you could easily say each of them also deserves a
 #1 seed.
 
-Gonzaga may end up with a #1 seed (and if they do, they'll be follow the
+Gonzaga may end up with a #1 seed (and if they do, they'll follow the
 [Seattle to Los Angeles path](http://crashingthedance.com/distance), but if they
 win out and don't get a #1 seed, it doesn't mean that they didn't
 deserve it.
