@@ -119,10 +119,16 @@ While better than being placed as the #2 in Kentucky's region, the Badgers would
 have to travel a little more than they'd prefer. Cleveland and Syracuse are each
 closer to Madison, but they're already taken. Houston it is.
 
+**4. Virginia - West (Los Angeles)**
+
+The gap between the Cavs and Duke is so razor thin that they keep flip flopping
+back and forth in the 4 and 5 spots. Not that they get a say in the matter,
+but Virginia would probably prefer traveling West for the regional than having
+to be the 2 seed in Kentucky's bracket. Los Angeles is obviously farther from
+Charlottesville than the other three sites, but Hollywood is the only option.
+
 <a name='latest'></a>
 *Reload for the latest updates*
-
-**4. Virginia**
 
 **5. Arizona**
 
