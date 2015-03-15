@@ -249,4 +249,53 @@ which will make the "S-Curve" activists happy.
 No problem on the balance here. East (33), Midwest (34), South (34), and West
 (35) are all within two points. "S-Curve" purists, rejoice!
 
+> In “true seed” order, the committee then
+> assigns each team (and, therefore, all
+> teams in its bracket group—e.g., seeds 1, 8,
+> 9, 16) to second-/third-round sites.
 
+In other words, take the 16 teams and place them into a pod site to determine
+where each will play its second-/third-round games. Each of these teams is the
+highest seeded team in pod of four teams, and the other teams in each pod
+automatically follow that pod site. This is important when slotting the other
+teams into the bracket to satisfy other rules.
+
+<a name='latest'></a>
+*Reload for the latest updates*
+
+**1. Kentucky - Louisville**
+
+**2. Villanova - Pittsburgh**
+
+**3. Wisconsin - Columbus**
+
+**4. Virginia - Charlotte**
+
+**5. Arizona - Portland**
+
+**6. Duke - Charlotte**
+
+**7. Iowa St. - Omaha**
+
+**8. Kansas - Omaha**
+
+**9. Gonzaga - Seattle**
+
+**10.  Notre Dame - Columbus**
+
+**11.  Oklahoma - Louisville**
+
+**12.  Baylor - Jacksonville**
+
+**13.  Maryland - Pittsburgh**
+
+**14.  North Carolina - Jacksonville**
+
+**15.  Arkansas - Portland**
+
+**16.  SMU - Seattle**
+
+Wisconsin is almost the same distance from Omaha, Louisville, and Columbus.
+We'll take the NCAA at their word about regional "fit" and send them to
+Columbus. Same with Virginia and Charlotte vs. Pittsburgh. Same with Arizona and
+Omaha vs. Portland. The rest are relatively straightforward.
