@@ -127,10 +127,21 @@ but Virginia would probably prefer traveling West for the regional than having
 to be the 2 seed in Kentucky's bracket. Los Angeles is obviously farther from
 Charlottesville than the other three sites, but Hollywood is the only option.
 
+Now that we're done with the #1 seeds, there are a few other rules that start
+coming into play.
+
+> Each of the first four teams selected from a conference shall be placed in different
+regions if they are seeded on the first four lines.
+
+**5. Arizona - West (Los Angeles)**
+
+Arizona would've been in the West region if they had moved up to the 1 line, so
+it probably doesn't make that much of a difference that they're a 2. Off to L.A.
+they go. "S-Curve" advocates would be happy that the best 2 would be paired with
+the worst 1.
+
 <a name='latest'></a>
 *Reload for the latest updates*
-
-**5. Arizona**
 
 **6. Duke**
 
