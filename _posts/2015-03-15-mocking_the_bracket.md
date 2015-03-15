@@ -108,15 +108,19 @@ So, without further ado, let's get started. And it's a pretty easy start.
 It is no surprise that Kentucky is the overall #1 seed, and it is no surprise
 that the Wildcats are sent to the nearest region. Next.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **2. Villanova - East (Syracuse)**
 
 The other Wildcats are also pretty easy to slot into their natural and closest
 region.
 
-**3. Wisconsin**
+**3. Wisconsin - South (Houston)**
+
+While better than being placed as the #2 in Kentucky's region, the Badgers would
+have to travel a little more than they'd prefer. Cleveland and Syracuse are each
+closer to Madison, but they're already taken. Houston it is.
+
+<a name='latest'></a>
+*Reload for the latest updates*
 
 **4. Virginia**
 
