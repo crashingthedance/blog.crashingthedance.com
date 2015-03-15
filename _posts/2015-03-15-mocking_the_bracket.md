@@ -237,3 +237,16 @@ which will make the "S-Curve" activists happy.
 <a name='latest'></a>
 *Reload for the latest updates*
 
+> After the top four seed lines have been
+> assigned, the committee will review the
+> relative strengths of the regions by adding the
+> “true seed” numbers in each region to
+> determine if any severe numerical
+> imbalance exists. Generally, no more than
+> five points should separate the lowest and
+> highest total.
+
+No problem on the balance here. East (33), Midwest (34), South (34), and West
+(35) are all within two points. "S-Curve" purists, rejoice!
+
+
