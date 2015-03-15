@@ -212,6 +212,8 @@ while Baylor heads east.
 
 Whew.
 
+> The committee will then place the No. 4 seeds in each region in true seed list order.
+
 <a name='latest'></a>
 *Reload for the latest updates*
 
