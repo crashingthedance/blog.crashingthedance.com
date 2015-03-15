@@ -143,7 +143,26 @@ the worst 1.
 <a name='latest'></a>
 *Reload for the latest updates*
 
-**6. Duke**
+**6. Duke - East (Syracuse)**
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a
+href="https://twitter.com/NicoleAuerbach">@nicoleauerbach</a> Would be so much
+more interesting if Duke loses tonight and they&#39;re sent to Kentucky&#39;s
+region. Conspiracy theorist&#39;s dream!</p>&mdash; Crashing the Dance
+(@crashthedance) <a
+href="https://twitter.com/crashthedance/status/576569425899495424">March 14,
+2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This is where things start to get interesting, and where "natural regions"
+becomes a little hazy. Durham is closer to Cleveland than to Syracuse, but
+"Midwest" isn't the first thing that comes to mind when thinking about ACC
+teams, their most recent tournament champ aside.
+
+So, does 100 extra miles trump regional sensibilities? We'll assume the
+committee agrees that North Carolina is not in the Midwest and send Duke to
+Syracuse. Conspiracy theorists will have to wait, unless they think that
+Virginia was sent west so Duke could stay closer to home.
 
 **7. Iowa St.**
 
