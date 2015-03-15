@@ -171,10 +171,16 @@ natural region.
 While the South isn't the Jayhawks' most natural region fit, Houston is the
 closest site so it's not a bad compromise.
 
+> The committee will then place the No. 3 seeds in each region in true seed list order.
+
+**9. Gonzaga - West (Los Angeles)**
+
+The fall to the 3 line actually would benefit the Bulldogs geographically, as
+they stay closer to home than they likely would have if they were a 2 behind
+Arizona.
+
 <a name='latest'></a>
 *Reload for the latest updates*
-
-**9. Gonzaga**
 
 **10.  Notre Dame**
 
