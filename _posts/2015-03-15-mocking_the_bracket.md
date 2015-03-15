@@ -166,10 +166,13 @@ Virginia was sent west so Duke could stay closer to home.
 Straightforward here. The Big 12 champs are sent to their closest and most
 natural region.
 
+**8. Kansas - South (Houston)**
+
+While the South isn't the Jayhawks' most natural region fit, Houston is the
+closest site so it's not a bad compromise.
+
 <a name='latest'></a>
 *Reload for the latest updates*
-
-**8. Kansas**
 
 **9. Gonzaga**
 
