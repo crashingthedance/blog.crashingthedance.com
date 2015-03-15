@@ -260,9 +260,6 @@ highest seeded team in pod of four teams, and the other teams in each pod
 automatically follow that pod site. This is important when slotting the other
 teams into the bracket to satisfy other rules.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **1. Kentucky - Louisville**
 
 **2. Villanova - Pittsburgh**
