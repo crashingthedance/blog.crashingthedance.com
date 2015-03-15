@@ -214,15 +214,26 @@ Whew.
 
 > The committee will then place the No. 4 seeds in each region in true seed list order.
 
+**13.  Maryland - East (Syracuse)**
+
+**14.  North Carolina - South (Houston)**
+
+**15.  Arkansas - West (Los Angeles)**
+
+**16.  SMU - Midwest (Cleveland)**
+
+North Carolina must go to Houston with the other three regions full of ACC
+teams. Maryland's best options are within 50 miles of each other, and I debated
+whether the Midwest (with Maryland now in the Big 10 and all) or the East (with
+Maryland being on the east coast and all) is a better fit, but the unofficial
+bracketing committee decided to put the Terps in Syracuse.
+
+Kentucky is already in Cleveland, so Arkansas has to go west. (It's possible the
+committee could consider Maryland and Arkansas together and optimize the total
+distances by putting Maryland in Cleveland and Arkansas in Syracuse, but that
+doeesn't seem to be how they do it.) The final four seed then goes to Cleveland,
+which will make the "S-Curve" activists happy.
+
 <a name='latest'></a>
 *Reload for the latest updates*
-
-**13.  Maryland**
-
-**14.  North Carolina**
-
-**15.  Arkansas**
-
-**16.  SMU**
-
 
