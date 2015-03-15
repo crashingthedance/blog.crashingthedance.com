@@ -111,7 +111,10 @@ that the Wildcats are sent to the nearest region. Next.
 <a name='latest'></a>
 *Reload for the latest updates*
 
-**2. Villanova**
+**2. Villanova - East (Syracuse)**
+
+The other Wildcats are also pretty easy to slot into their natural and closest
+region.
 
 **3. Wisconsin**
 
