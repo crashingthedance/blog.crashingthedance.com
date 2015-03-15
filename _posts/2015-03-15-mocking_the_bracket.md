@@ -173,20 +173,47 @@ closest site so it's not a bad compromise.
 
 > The committee will then place the No. 3 seeds in each region in true seed list order.
 
-**9. Gonzaga - West (Los Angeles)**
+**9. Gonzaga - South (Houston)**
 
 The fall to the 3 line actually would benefit the Bulldogs geographically, as
 they stay closer to home than they likely would have if they were a 2 behind
 Arizona.
 
+(Update: Gonzaga was moved to the South to accommodate the Big 12 conflicts on
+the 3 seed line. Not so much a geographic benefit after all.)
+
+**10.  Notre Dame - Midwest (Cleveland)**
+
+The ACC tournament champs are a better fit in the Midwest than their conference
+comrades, and with Cleveland being closest and open on the 3 line, there they
+would normally go. However...
+
+**11.  Oklahoma - West (Los Angeles)**
+
+**12.  Baylor - East (Syracuse)**
+
+Houston, we have a problem. (Sorry.) The next two teams on the mock seed list
+are both in the Big 12, and one of the primary bracketing rules is:
+
+> Each of the first four teams selected from a conference shall be placed in
+> different regions if they are seeded on the first four lines.
+
+There are only two regional spots left on the 3 seed line, and one of them
+(South) already has a Big 12 team. That means that neither Oklahoma or Baylor
+could go to the South region.
+
+Rather than reaching up and shifting teams around on the 2 line, which would
+unfairly punish teams higher up the list, we'll have to shuffle teams on the 3
+line to make things work. Gonzaga would move to Houston (its next closest site)
+and Notre Dame would stay in Cleveland.
+
+Oklahoma is marginally closer to L.A. than to Syracuse, to the Sooners go west
+while Baylor heads east.
+
+Whew.
+
 <a name='latest'></a>
 *Reload for the latest updates*
-
-**10.  Notre Dame**
-
-**11.  Oklahoma**
-
-**12.  Baylor**
 
 **13.  Maryland**
 
