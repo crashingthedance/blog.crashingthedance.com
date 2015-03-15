@@ -140,9 +140,6 @@ it probably doesn't make that much of a difference that they're a 2. Off to L.A.
 they go. "S-Curve" advocates would be happy that the best 2 would be paired with
 the worst 1.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **6. Duke - East (Syracuse)**
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a
@@ -164,7 +161,13 @@ committee agrees that North Carolina is not in the Midwest and send Duke to
 Syracuse. Conspiracy theorists will have to wait, unless they think that
 Virginia was sent west so Duke could stay closer to home.
 
-**7. Iowa St.**
+**7. Iowa St. - Midwest (Cleveland)**
+
+Straightforward here. The Big 12 champs are sent to their closest and most
+natural region.
+
+<a name='latest'></a>
+*Reload for the latest updates*
 
 **8. Kansas**
 
