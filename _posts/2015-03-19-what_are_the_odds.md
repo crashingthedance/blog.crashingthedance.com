@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What are the odds?'
-date: '2015-03-19 12:00:00 -0500'
+date: '2015-03-18 23:00:00 -0500'
 basename: what_are_the_odds
 ---
 Most of these seem pointless given the predestined champion, but it's always a
