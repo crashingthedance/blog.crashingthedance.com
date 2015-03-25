@@ -6,14 +6,13 @@ basename: regression_to_the_mean
 ---
 Unlike [momentum](http://grantland.com/the-triangle/nomentum-in-sports-part-2/)
 or the [hot
-hand](http://wexler.free.fr/library/files/gilovich%20%281985%29%20the%20hot%20hand%20in%20basketball.%20on%20the%20misperception%20of%20random%20sequences.pdf)
-(OK, maybe there's
-[something](http://wexler.free.fr/library/files/gilovich%20%281985%29%20the%20hot%20hand%20in%20basketball.%20on%20the%20misperception%20of%20random%20sequences.pdf) to the hot hand),
-regression to the mean is an actual phenomenon. (I'll wait while you go and
-[read up](http://www.fangraphs.com/library/principles/regression/) on it.)
+hand](http://wexler.free.fr/library/files/gilovich%20%281985%29%20the%20hot%20hand%20in%20basketball.%20on%20the%20misperception%20of%20random%20sequences.pdf),
+regression to the mean is an actual phenomenon. (OK, maybe there is
+[something](http://wexler.free.fr/library/files/gilovich%20%281985%29%20the%20hot%20hand%20in%20basketball.%20on%20the%20misperception%20of%20random%20sequences.pdf) to the hot hand)
 
 > Most measurements of human ability are partly achieved by skill and partly
 > achieved by luck. This means that data cannot always be taken at face value.
+> ([fangraphs.com](http://www.fangraphs.com/library/principles/regression/))
 
 Regression the to mean
 explains why a 48-percent-shooting team
@@ -36,7 +35,7 @@ an simple explanation for a natural phenomenon.
 
 (Source: [xkcd](https://xkcd.com/904/))
 
-But enough theory. What does this actually mean for the Sweet 16?
+Enough theory. What does this actually mean for the Sweet 16?
 
 Here are the top five teams from the first weekend of the tournment ranked by
 their [net efficiency
@@ -71,14 +70,27 @@ first weekend.
 | West Virginia |            19.1 |        26.5 |
 
 Is it possible that Duke is onto something after dismissing Rasheed Sulaimon, or
-that Tom Izzo has a formula for March more secret than the Coca-Cola formula?
+that [Tom Izzo has a formula for
+March](http://fivethirtyeight.com/datalab/tom-izzo-is-the-best-coach-in-modern-ncaa-tournament-history-by-far/)
+more secret than the Coca-Cola formula?
 Sure, it's possible, but the simpler and [more likely
 explanation](http://en.wikipedia.org/wiki/Occam%27s_razor) is a variation due to
-randomness (or chance or luck, if you prefer) over a small sample. Now, that
+randomness (or chance or luck, if you prefer) over a small sample. Again, that
 doesn't mean that any of these teams are due to return to Earth in their next
 game. It simply means that the more games they play, the more likely that their
 performance will reflect their true level. In this case, we measure that by
 the NEM over the entire season.
+
+UCLA is an interesting case. Many (including the [CTD selection
+model](http://crashingthedance.com/selection)) did not
+find their profile at-large worthy, but the only opinion that counts put them
+in the field. Although the Bruins had the worst pre-tourney NEM (13.4) of the
+remaining teams, a quick look at their season trend (the dark blue line)
+shows they have been playing better over the last two months or so. It may still
+not be enough to beat Gonzaga, but their first two games aren't as out of
+character as they would first appear.
+
+![UCLA 2015 Net Efficiency Margin](/images/ucla-2015-sweet-16-nem.png)
 
 Which teams are candidates for a positive regression to the mean? These teams
 won their first two games despite playing below their true ability, at least
