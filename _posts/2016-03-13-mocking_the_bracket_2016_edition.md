@@ -108,16 +108,18 @@ geography trumps just about everything when it comes to building the bracket.
 
 Let's go.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **1. Kansas - Midwest (Chicago)**
 
 Kansas is the consensus #1 overall, and the CTD seeding model agrees. Lawrence
 is slightly closer to Chicago than to Louisville, and the Midwest is more the
 Jayhawk's natural region than is the South.
 
-**2. Virginia**
+<a name='latest'></a>
+*Reload for the latest updates*
+
+**2. Virginia - East (Philadelphia)**
+
+Easy answer by natural region and distance.
 
 **3. North Carolina**
 
