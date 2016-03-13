@@ -126,7 +126,10 @@ farther.
 <a name='latest'></a>
 *Reload for the latest updates*
 
-**4. Villanova**
+**4. Villanova - West (Anaheim)**
+
+Staying on the #1 line would be worse for Villanova's travel plans than falling
+to the #2 line. The only slot left is in California.
 
 **5. Michigan State**
 
