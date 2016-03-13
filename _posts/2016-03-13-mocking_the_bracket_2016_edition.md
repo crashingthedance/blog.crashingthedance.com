@@ -140,9 +140,6 @@ for example, the overall No. 5 seed being sent to the same region as the
 overall No. 1 seed. The committee will not compromise the principle of
 keeping teams from the same conference in separate regions.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **5. Michigan State - South (Louisville)**
 
 Regardless of whether Michigan State rises to the 1 seed line in real bracket
@@ -150,11 +147,22 @@ land, they won't end up in Chicago with overall #1 Kansas already there. In this
 case, they're sent to the next closest site paired with overall #3 and
 tournament nemesis North Carolina.
 
-**6. Oregon**
+<a name='latest'></a>
+*Reload for the latest updates*
 
-**7. Oklahoma**
+**6. Oregon - West (Anaheim)**
 
-**8. Utah**
+The Ducks get their preferred region.
+
+**7. Oklahoma - East (Philadelphia)**
+
+Chicago is off limits because fellow Big 12 mate Kansas is already there, and
+Louisville is already taken by Michigan State.
+
+**8. Utah - Midwest (Chicago)**
+
+The only site left goes to Utah, and it works better from a bracket balancing
+standpoint matching the #1 overall with the #8 overall.
 
 **9. Miami**
 
