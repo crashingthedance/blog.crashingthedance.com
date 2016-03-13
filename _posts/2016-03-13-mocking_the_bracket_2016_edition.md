@@ -123,15 +123,32 @@ Easy answer by natural region and distance.
 The closest site for the Heels would be Philly, but Louisville is only slightly
 farther.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **4. Villanova - West (Anaheim)**
 
 Staying on the #1 line would be worse for Villanova's travel plans than falling
 to the #2 line. The only slot left is in California.
 
-**5. Michigan State**
+> The committee will then place the No. 2 seeds in each region in true seed
+list order.
+
+One significant procedural change is [new this
+year](http://www.ncaa.com/news/basketball-men/article/2015-07-20/ncaa-adjusts-process-selecting-first-four-participants):
+
+> The committee may relax the principle of keeping teams as close to
+their area of natural interest for seeding teams on the No. 2 line to avoid,
+for example, the overall No. 5 seed being sent to the same region as the
+overall No. 1 seed. The committee will not compromise the principle of
+keeping teams from the same conference in separate regions.
+
+<a name='latest'></a>
+*Reload for the latest updates*
+
+**5. Michigan State - South (Louisville)**
+
+Regardless of whether Michigan State rises to the 1 seed line in real bracket
+land, they won't end up in Chicago with overall #1 Kansas already there. In this
+case, they're sent to the next closest site paired with overall #3 and
+tournament nemesis North Carolina.
 
 **6. Oregon**
 
