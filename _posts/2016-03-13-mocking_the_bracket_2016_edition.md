@@ -114,14 +114,17 @@ Kansas is the consensus #1 overall, and the CTD seeding model agrees. Lawrence
 is slightly closer to Chicago than to Louisville, and the Midwest is more the
 Jayhawk's natural region than is the South.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **2. Virginia - East (Philadelphia)**
 
 Easy answer by natural region and distance.
 
-**3. North Carolina**
+**3. North Carolina - South (Louisville)**
+
+The closest site for the Heels would be Philly, but Louisville is only slightly
+farther.
+
+<a name='latest'></a>
+*Reload for the latest updates*
 
 **4. Villanova**
 
