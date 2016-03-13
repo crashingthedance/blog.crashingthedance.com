@@ -161,9 +161,6 @@ Louisville is already taken by Michigan State.
 The only site left goes to Utah, and it works better from a bracket balancing
 standpoint matching the #1 overall with the #8 overall.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 > The committee will then place the No. 3 seeds in each region in true seed list order.
 
 > Each of the first four teams selected from a conference shall be placed in
@@ -187,11 +184,44 @@ east.
 
 SEC champ Kentucky gets the final spot on the 3 line.
 
-**13. Texas A&M**
+<a name='latest'></a>
+*Reload for the latest updates*
 
-**14. Purdue**
+> The committee will then place the No. 4 seeds in each region in true seed list order.
 
-**15. Indiana**
+**13. Texas A&M - South (Louisville)**
 
-**16. Arizona**
+The closest (and natural region) site is available for the Aggies.
+
+**14. Purdue - Midwest (Chicago)**
+
+In the mock scenario, the Boilermakers have to be pretty happy with this turn of
+events, aside from being in the same region as overall #1 Kansas.
+
+**15. Indiana - West (Anaheim)**
+
+Oh, what a difference a single seed makes. Instead of staying near Bloomington,
+the Hoosiers get shipped out west. There were no conflicts to putting Indiana in
+Philadelphia, but they were moved here because putting Arizona in Anaheim would
+have caused a conference conflict, with Oregon already there. The committee has
+the ability to make these kinds of switches further down the seed list.
+
+**16. Arizona - East (Philadelphia)**
+
+Arizona also has to travel across the country, but in the opposite direction.
+As mentioned above, the Wildcats could not have been in Anaheim because Oregon
+was already there.
+
+> After the top four seed lines have been
+> assigned, the committee will review the
+> relative strengths of the regions by adding the
+> “true seed” numbers in each region to
+> determine if any severe numerical
+> imbalance exists. Generally, no more than
+> five points should separate the lowest and
+> highest total.
+
+We're on the fringe of imbalance, but for purposes of time, we'll let it slide.
+Hopefully the committee won't use that excuse! South (31), Midwest (32),
+East (36), and West (37) are within six points.
 
