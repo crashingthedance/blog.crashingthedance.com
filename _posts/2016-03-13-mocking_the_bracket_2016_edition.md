@@ -184,9 +184,6 @@ east.
 
 SEC champ Kentucky gets the final spot on the 3 line.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 > The committee will then place the No. 4 seeds in each region in true seed list order.
 
 **13. Texas A&M - South (Louisville)**
@@ -224,4 +221,51 @@ was already there.
 We're on the fringe of imbalance, but for purposes of time, we'll let it slide.
 Hopefully the committee won't use that excuse! South (31), Midwest (32),
 East (36), and West (37) are within six points.
+
+<a name='latest'></a>
+*Reload for the latest updates*
+
+> In “true seed” order, the committee then
+> assigns each team (and, therefore, all
+> teams in its bracket group—e.g., seeds 1, 8,
+> 9, 16) to second-/third-round sites.
+
+In other words, take the 16 teams and place them into a pod site to determine
+where each will play its first-/second-round games. Each of these teams is the
+highest seeded team in pod of four teams, and the other teams in each pod
+automatically follow that pod site. This is important when slotting the other
+teams into the bracket to satisfy other rules.
+
+**1. Kansas - Des Moines**
+
+**2. Virginia - Raleigh**
+
+**3. Villanova - Brooklyn**
+
+**4. North Carolina - Raleigh**
+
+**5. Michigan State - St. Louis**
+
+**6. Oklahoma - Oklahoma City**
+
+**7. Oregon - Spokane**
+
+**8. Utah - Denver**
+
+**9. Miami - St. Louis**
+
+**10. West Virginia - Brooklyn**
+
+**11. Xavier - Des Moines**
+
+**12. Kentucky - Providence**
+
+**13. Texas A&M - Oklahoma City**
+
+**14. Purdue - Providence**
+
+**15. Indiana - Denver**
+
+**16. Arizona - Spokane**
+
 
