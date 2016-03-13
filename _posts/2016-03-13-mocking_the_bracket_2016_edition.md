@@ -147,9 +147,6 @@ land, they won't end up in Chicago with overall #1 Kansas already there. In this
 case, they're sent to the next closest site paired with overall #3 and
 tournament nemesis North Carolina.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **6. Oregon - West (Anaheim)**
 
 The Ducks get their preferred region.
@@ -164,13 +161,31 @@ Louisville is already taken by Michigan State.
 The only site left goes to Utah, and it works better from a bracket balancing
 standpoint matching the #1 overall with the #8 overall.
 
-**9. Miami**
+<a name='latest'></a>
+*Reload for the latest updates*
 
-**10. West Virginia**
+> The committee will then place the No. 3 seeds in each region in true seed list order.
 
-**11. Xavier**
+> Each of the first four teams selected from a conference shall be placed in
+> different regions if they are seeded on the first four lines.
 
-**12. Kentucky**
+**9. Miami - Midwest (Chicago)**
+
+Louisville and Philly are closer, but both already taken by ACC teams.
+
+**10. West Virginia - South (Louisville)**
+
+Oklahoma is in Philly, so the Mountaineers make the trip to Louisville.
+
+**11. Xavier - East (Philadelphia)**
+
+Xavier would prefer to make the short drive to Louisville, but West Virginia
+just snatched it. Chicago is also taken, so the second-best Big East team heads
+east.
+
+**12. Kentucky - West (Anaheim)**
+
+SEC champ Kentucky gets the final spot on the 3 line.
 
 **13. Texas A&M**
 
