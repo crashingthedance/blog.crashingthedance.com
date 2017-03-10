@@ -4,8 +4,6 @@ title: 'Mocking the Bracket'
 date: '2016-03-13 13:00:00 -0500'
 basename: mocking_the_bracket
 ---
-**Click [here](#latest) for the latest update.**
-
 Each year for the better part of the last decade, the NCAA has invited a group of media
 and other folks to Indianapolis to participate in a mock selection committee
 meeting and report the details of the sausage factory to the masses.
