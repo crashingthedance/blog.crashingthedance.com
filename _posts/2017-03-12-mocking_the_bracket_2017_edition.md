@@ -159,5 +159,16 @@ in the same region as Villanova might not be a reward.
 The only region left is Kansas City, but the Pac 12 tournament champs get their
 closest pod site.
 
+> The committee will then place the No. 3 seeds in each region in true seed list order.
+
+> Each of the first four teams selected from a conference shall be placed in
+> different regions if they are seeded on the first four lines.
+
+**9. Florida St. - Midwest (Orlando)**
+
+With North Carolina already assigned to Memphis, the Seminoles can't get their
+preferred geographic region. However, they do get to stay close to home for the
+first round.
+
 <a name='latest'></a>
 *Reload for the latest updates*
