@@ -180,5 +180,10 @@ the geographic leftovers.
 The Gators would rather be in the South, but Kentucky is already there. They also
 make Orlando an all-Florida pod.
 
+**12. UCLA - South (Sacramento)**
+
+The only region left for the Bruins. They get to stay in California for the first
+two rounds.
+
 <a name='latest'></a>
 *Reload for the latest updates*
