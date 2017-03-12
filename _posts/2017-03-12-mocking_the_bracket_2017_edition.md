@@ -10,7 +10,7 @@ Each year for the better part of the last decade, the NCAA has invited a group o
 and other folks to Indianapolis to participate in a mock selection committee
 meeting and report the details of the sausage factory to the masses.
 
-The NCAA tried to unveil the curtain a bit with the [early release of a top 16
+The NCAA tried to pull back the curtain a bit with the [early release of a top 16
 seed list and "bracket"](http://www.ncaa.com/news/basketball-men/bracket-beat/2017-02-11/march-madness-top-16-seeds-revealed-first-ever-season), but despite their best efforts (and pretty thorough description of the
 [process](http://i.turner.ncaa.com/sites/default/files/images/2017/02/03/2016-17_principles_and_procedures.pdf) there is still much public confusion about the process.
 Yes, they leave some parts of the procedure open to interpretation
