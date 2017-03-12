@@ -135,6 +135,9 @@ little farther from Chapel Hill than New York, but the South is arguably their
 natural region. Greenville is filling in for Greensboro as a pod site, but it's
 still the closest.
 
+> The committee will then place the No. 2 seeds in each region in true seed
+list order.
+
 **5. Kentucky - South (Indianapolis)**
 
 Memphis is the closest regional site. With the lowest 1 seed in Memphis,
@@ -144,6 +147,12 @@ there would not be any bracket balance issues adding the highest 2 seed.
 
 Despite losing in the Pac 12 championship game, the Ducks remain the highest seed
 from the conference and are rewarded geographically.
+
+**7. Duke - East (Greenville)**
+
+Duke's late run lifted them to a higher seed line than would have been
+expected several weeks ago. They're also rewarded geographically, though being
+in the same region as Villanova might not be a reward.
 
 <a name='latest'></a>
 *Reload for the latest updates*
