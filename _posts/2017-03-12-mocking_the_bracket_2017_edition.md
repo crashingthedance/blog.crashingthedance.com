@@ -187,7 +187,7 @@ two rounds.
 
 > The committee will then place the No. 4 seeds in each region in true seed list order.
 
-**13. Baylor - Region (Pod)**
+**13. Baylor - South (Tulsa)**
 
 At this point, teams start to see fewer options to satisfy their geographic
 preferences. No Big 12 teams are in Memphis and there is still a slot in Tulsa,
