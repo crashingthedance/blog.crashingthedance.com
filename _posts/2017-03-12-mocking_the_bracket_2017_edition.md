@@ -185,5 +185,13 @@ make Orlando an all-Florida pod.
 The only region left for the Bruins. They get to stay in California for the first
 two rounds.
 
+> The committee will then place the No. 4 seeds in each region in true seed list order.
+
+**13. Baylor - Region (Pod)**
+
+At this point, teams start to see fewer options to satisfy their geographic
+preferences. No Big 12 teams are in Memphis and there is still a slot in Tulsa,
+so the Bears are the rare 4 seed that is happy with their placement.
+
 <a name='latest'></a>
 *Reload for the latest updates*
