@@ -135,5 +135,10 @@ little farther from Chapel Hill than New York, but the South is arguably their
 natural region. Greenville is filling in for Greensboro as a pod site, but it's
 still the closest.
 
+**5. Kentucky - South (Indianapolis)**
+
+Memphis is the closest regional site. With the lowest 1 seed in Memphis,
+there would not be any bracket balance issues adding the highest 2 seed.
+
 <a name='latest'></a>
 *Reload for the latest updates*
