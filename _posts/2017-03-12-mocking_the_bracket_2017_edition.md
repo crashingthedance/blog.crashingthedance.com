@@ -208,5 +208,10 @@ natural slots are available for teams closer to the Atlantic Ocean than normal.
 The Mountaineers benefit by getting their first choice for the pod and regional
 site, which is unusual for the 15th overall seed.
 
+**16. Purdue - West (Milwaukee)**
+
+Despite having to head west for the regional, the Boilermakers get to stay close
+to home early.
+
 <a name='latest'></a>
 *Reload for the latest updates*
