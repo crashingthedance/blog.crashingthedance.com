@@ -123,5 +123,10 @@ a short trip from Philadelphia.
 Despite their early loss in the Big 12 tournament, Kansas still grabs a 1 seed.
 Kansas City and Tulsa are the clear site choices.
 
+**3. Gonzaga - West (Salt Lake City)**
+
+While there is still some debate about Gonzaga's place on the seed line, the CTD
+model had little debate about their place on the [seed list](https://crashingthedance.com/seeding). As the only CTD 1 seed in the West, they'll get their preferred site placement.
+
 <a name='latest'></a>
 *Reload for the latest updates*
