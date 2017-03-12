@@ -128,5 +128,12 @@ Kansas City and Tulsa are the clear site choices.
 While there is still some debate about Gonzaga's place on the seed line, the CTD
 model had little debate about their place on the [seed list](https://crashingthedance.com/seeding). As the only CTD 1 seed in the West, they'll get their preferred site placement.
 
+**4. North Carolina - South (Greenville)**
+
+The Heels tenuously hold on to the last spot on the #1 seed line. Memphis is a
+little farther from Chapel Hill than New York, but the South is arguably their
+natural region. Greenville is filling in for Greensboro as a pod site, but it's
+still the closest.
+
 <a name='latest'></a>
 *Reload for the latest updates*
