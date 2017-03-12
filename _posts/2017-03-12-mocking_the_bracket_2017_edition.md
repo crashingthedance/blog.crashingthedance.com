@@ -118,10 +118,10 @@ a short trip from Philadelphia.
 
 **2. Kansas - Midwest (Milwaukee)**
 
+(Edit: Tulsa is closer than either Milwaukee or Indy.)
+
 Despite their early loss in the Big 12 tournament, Kansas still grabs a 1 seed.
-Kansas City is an obvious region site, but Milwaukee and Indianapolis are [roughly
-the same distance from Lawrence](https://crashingthedance.com/distance).
-We'll pick the one that's marginally closer.
+Kansas City and Tulsa are the clear site choices.
 
 <a name='latest'></a>
 *Reload for the latest updates*
