@@ -140,5 +140,10 @@ still the closest.
 Memphis is the closest regional site. With the lowest 1 seed in Memphis,
 there would not be any bracket balance issues adding the highest 2 seed.
 
+**6. Oregon - West (Sacramento)**
+
+Despite losing in the Pac 12 championship game, the Ducks remain the highest seed
+from the conference and are rewarded geographically.
+
 <a name='latest'></a>
 *Reload for the latest updates*
