@@ -199,5 +199,14 @@ Memphis is already booked on the 4 line, so they're heading to Kansas City with
 no Big East teams there yet. Indianapolis is already full, so they'll make the
 trip north for the first round.
 
+**15. West Virginia - East (Buffalo)**
+
+Wow, this is much easier than in previous years.
+
+With three strong west coast teams filling up slots out west, there are more
+natural slots are available for teams closer to the Atlantic Ocean than normal.
+The Mountaineers benefit by getting their first choice for the pod and regional
+site, which is unusual for the 15th overall seed.
+
 <a name='latest'></a>
 *Reload for the latest updates*
