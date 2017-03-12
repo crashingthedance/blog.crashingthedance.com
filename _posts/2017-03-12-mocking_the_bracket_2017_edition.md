@@ -193,5 +193,11 @@ At this point, teams start to see fewer options to satisfy their geographic
 preferences. No Big 12 teams are in Memphis and there is still a slot in Tulsa,
 so the Bears are the rare 4 seed that is happy with their placement.
 
+**14. Butler - Midwest (Milwaukee)**
+
+Memphis is already booked on the 4 line, so they're heading to Kansas City with
+no Big East teams there yet. Indianapolis is already full, so they'll make the
+trip north for the first round.
+
 <a name='latest'></a>
 *Reload for the latest updates*
