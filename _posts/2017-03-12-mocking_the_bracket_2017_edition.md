@@ -170,5 +170,10 @@ With North Carolina already assigned to Memphis, the Seminoles can't get their
 preferred geographic region. However, they do get to stay close to home for the
 first round.
 
+**10. Louisville - West (Indianapolis)**
+
+As the fourth team in the field from the ACC, the Cardinals are left with
+the geographic leftovers.
+
 <a name='latest'></a>
 *Reload for the latest updates*
