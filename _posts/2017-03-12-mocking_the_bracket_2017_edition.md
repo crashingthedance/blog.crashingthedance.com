@@ -175,5 +175,10 @@ first round.
 As the fourth team in the field from the ACC, the Cardinals are left with
 the geographic leftovers.
 
+**11. Florida - East (Pod)**
+
+The Gators would rather be in the South, but Kentucky is already there. They also
+make Orlando an all-Florida pod.
+
 <a name='latest'></a>
 *Reload for the latest updates*
