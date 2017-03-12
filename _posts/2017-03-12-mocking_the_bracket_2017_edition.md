@@ -109,12 +109,19 @@ geography trumps just about everything when it comes to building the bracket.
 
 Let's go.
 
-<a name='latest'></a>
-*Reload for the latest updates*
-
 **1. Villanova - East (Buffalo)**
 
 Big East Champ and defending national champs Villanova is the consensus #1
 overall, and the [CTD seeding model](https://crashingthedance.com/seeding) agrees.
 The geography is straightforward as well, with the [nearest pod and region sites](https://crashingthedance.com/distance)
 a short trip from Philadelphia.
+
+**2. Kansas - Midwest (Milwaukee)**
+
+Despite their early loss in the Big 12 tournament, Kansas still grabs a 1 seed.
+Kansas City is an obvious region site, but Milwaukee and Indianapolis are [roughly
+the same distance from Lawrence](https://crashingthedance.com/distance).
+We'll pick the one that's marginally closer.
+
+<a name='latest'></a>
+*Reload for the latest updates*
