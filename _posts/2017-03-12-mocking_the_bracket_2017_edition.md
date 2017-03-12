@@ -111,3 +111,10 @@ Let's go.
 
 <a name='latest'></a>
 *Reload for the latest updates*
+
+**1. Villanova - East (Buffalo)**
+
+Big East Champ and defending national champs Villanova is the consensus #1
+overall, and the [CTD seeding model](https://crashingthedance.com/seeding) agrees.
+The geography is straightforward as well, with the [nearest pod and region sites](https://crashingthedance.com/distance)
+a short trip from Philadelphia.
