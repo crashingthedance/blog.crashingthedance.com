@@ -154,5 +154,10 @@ Duke's late run lifted them to a higher seed line than would have been
 expected several weeks ago. They're also rewarded geographically, though being
 in the same region as Villanova might not be a reward.
 
+**8. Arizona - Midwest (Salt Lake City)**
+
+The only region left is Kansas City, but the Pac 12 tournament champs get their
+closest pod site.
+
 <a name='latest'></a>
 *Reload for the latest updates*
