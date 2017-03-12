@@ -116,7 +116,7 @@ overall, and the [CTD seeding model](https://crashingthedance.com/seeding) agree
 The geography is straightforward as well, with the [nearest pod and region sites](https://crashingthedance.com/distance)
 a short trip from Philadelphia.
 
-**2. Kansas - Midwest (Milwaukee)**
+**2. Kansas - Midwest (Tulsa)**
 
 (Edit: Tulsa is closer than either Milwaukee or Indy.)
 
@@ -213,5 +213,59 @@ site, which is unusual for the 15th overall seed.
 Despite having to head west for the regional, the Boilermakers get to stay close
 to home early.
 
+> After the top four seed lines have been
+> assigned, the committee will review the
+> relative strengths of the regions by adding the
+> “true seed” numbers in each region to
+> determine if any severe numerical
+> imbalance exists. Generally, no more than
+> five points should separate the lowest and
+> highest total.
+
+No issues with balance this year. The Midwest (33) comes in slightly harder than
+the South (34), East (34), and West (35), but well within the guidelines.
+
+> In “true seed” order, the committee then
+> assigns each team (and, therefore, all
+> teams in its bracket group—e.g., seeds 1, 8,
+> 9, 16) to second-/third-round sites.
+
+In other words, take the 16 teams and place them into a pod site to determine
+where each will play its first-/second-round games. Each of these teams is the
+highest seeded team in pod of four teams, and the other teams in each pod
+automatically follow that pod site. This is important when slotting the other
+teams into the bracket to satisfy other rules.
+
+**1. Villanova - Buffalo**
+
+**2. Kansas - Tulsa**
+
+**3. Gonzaga - Salt Lake City**
+
+**4. North Carolina - Greenville**
+
+**5. Kentucky - Indianapolis**
+
+**6. Oregon - Sacramento**
+
+**7. Duke - Greenville**
+
+**8. Arizona - Salt Lake City**
+
+**9. Florida St. - Orlando**
+
+**10. Louisville - Indianapolis**
+
+**11. Florida - Orlando**
+
+**12. UCLA - Sacramento**
+
+**13. Baylor - Tulsa**
+
+**14. Butler - Milwaukee**
+
+**15. West Virginia - Buffalo**
+
+**16. Purdue - Milwaukee**
+
 <a name='latest'></a>
-*Reload for the latest updates*
