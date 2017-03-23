@@ -32,14 +32,21 @@ and have some fun with the numbers.
 **36.4%** probability of a first-time champion
 
 > Gonzaga, Baylor, West Virginia, Purdue, Butler, South Carolina, and Xavier
-> would win their first title.
+> would win their first title. The other 9 teams have a combined 33 championships.
 
-**34.5%** probability of the champion emerging from the West Region
+**61.5%** probability of a first-time Final Four team
+
+> Gonzaga, Xavier, and South Carolina have never made the Final Four. The other
+> 13 teams have a combined 94 appearances (not including vacated appearances).
+
+**34.5%** probability of the champion emerging from the West Regional
 
 > Gonzaga (18.2% percent chance) gives the West the best shot at producing the
-> champ.
+> champ. The West Regional has produced the champ 7 times since seeding began in
+> 1979. 2004 champ UConn emerged from what was officially called the Phoenix
+> Regional during the NCAA's brief dalliance with non-directional region naming.
 
-**13.2%** probability of the champion emerging from the East Region
+**13.2%** probability of the champion emerging from the East Regional
 
 > Losing the #1 and #2 seeds was costly to the chances the eventual champion
 > will pass through Madison Square Garden this week.
@@ -103,7 +110,8 @@ championship game
 game
 
 > While not as exciting as a rematch in the actual championship game, these rematches
-> would bring back memories for those who remember the original.
+> would bring back memories for those who remember the original. A UNC/Kansas
+> rematch would be their record fifth Final Four meeting.
 
 **2.5%** probability of three Big 12 teams in the Final Four
 
@@ -112,4 +120,4 @@ game
 **0.4%** probability of three Pac 12 teams in the Final Four
 
 > Each conference has three teams remaining in different regions. The SEC also
-> has three, but two are in the East region. The ACC has only one.
+> has three, but two are in the East. The ACC has only one team remaining.
