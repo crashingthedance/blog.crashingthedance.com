@@ -115,9 +115,8 @@ game
 
 **2.5%** probability of three Big 12 teams in the Final Four
 
-**0.9%** probability of three Big 10 teams in the Final Four
-
 **0.4%** probability of three Pac 12 teams in the Final Four
 
-> Each conference has three teams remaining in different regions. The SEC also
-> has three, but two are in the East. The ACC has only one team remaining.
+> Each conference has three teams remaining in different regions. The SEC and
+> Big 10 each also have three teams but two in one region.
+> The ACC has only one team remaining.
