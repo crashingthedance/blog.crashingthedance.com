@@ -42,8 +42,8 @@ and have some fun with the numbers.
 **34.5%** probability of the champion emerging from the West Regional
 
 > Gonzaga (18.2% percent chance) gives the West the best shot at producing the
-> champ. The West Regional has produced the champ 7 times since seeding began in
-> 1979. 2004 champ UConn emerged from what was officially called the Phoenix
+> champ. The West Regional has produced the champ 7 times since seeding began in 1979.
+> 2004 champ UConn emerged from what was officially called the Phoenix
 > Regional during the NCAA's brief dalliance with non-directional region naming.
 
 **13.2%** probability of the champion emerging from the East Regional
